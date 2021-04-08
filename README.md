@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sourabhmehtasg
 - 👀 I’m interested in Machine Learning, Data Science and Technology in general.
-- 🌱 I’m currently learning frontend technology with enhancing my data science knwledge further.
+- 🌱 I’m currently learning frontend technology with enhancing my data science knowledge further.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sourabhmehtasg@gmail.com
 
